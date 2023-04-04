@@ -46,7 +46,7 @@ const Post: FC<Props> = ({ img, alt, description }) => {
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
-        <Checkbox icon={<FavoriteBorder />} checkedIcon={<Favorite />} />
+        <Checkbox icon={<FavoriteBorder />} color="error" checkedIcon={<Favorite />} />
 
         <IconButton aria-label="share">
           <ShareIcon />
