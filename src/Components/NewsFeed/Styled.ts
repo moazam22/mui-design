@@ -2,10 +2,10 @@ import { Box, Card, styled } from "@mui/material";
 
 export const StyledCard = styled(Card)({
   margin: 5,
+  marginTop: "2em",
 });
 
 export const MainContainer = styled(Box)({
-  marginTop: "2em !important",
   flex: 4,
   p: 1,
   "@media (max-width: 599px)": {
