@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mui-design/static/css/main.e6c13ad2.css",
+    "main.js": "/mui-design/static/js/main.a20fade4.js",
+    "static/js/787.c167ee72.chunk.js": "/mui-design/static/js/787.c167ee72.chunk.js",
+    "static/media/post9.jpg": "/mui-design/static/media/post9.e198b3193dfdec25c218.jpg",
+    "static/media/post4.jpeg": "/mui-design/static/media/post4.7f80ee79122c4d2e87a9.jpeg",
+    "static/media/post10.jpg": "/mui-design/static/media/post10.26b1e4b99785a05bdcb4.jpg",
+    "static/media/post1.jpg": "/mui-design/static/media/post1.cb80c679a136574a99ca.jpg",
+    "static/media/post3.jpg": "/mui-design/static/media/post3.6402d2cadd070869ee9e.jpg",
+    "static/media/post8.jpg": "/mui-design/static/media/post8.682924b1c451f914a8be.jpg",
+    "static/media/post7.jpeg": "/mui-design/static/media/post7.571816ca06a141d59d96.jpeg",
+    "index.html": "/mui-design/index.html",
+    "main.e6c13ad2.css.map": "/mui-design/static/css/main.e6c13ad2.css.map",
+    "main.a20fade4.js.map": "/mui-design/static/js/main.a20fade4.js.map",
+    "787.c167ee72.chunk.js.map": "/mui-design/static/js/787.c167ee72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a20fade4.js"
+  ]
+}
