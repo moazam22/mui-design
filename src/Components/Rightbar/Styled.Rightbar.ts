@@ -12,7 +12,10 @@ export const RghtBar = styled(Box)(({ theme }) => ({
 export const RghtBarContainer = styled(Box)(({ theme }) => ({
   width: "350px",
   position: "fixed",
-  "@media (max-width: 1439px)": {
+  "@media (max-width: 1440px)": {
     width: "250px",
+  },
+  "@media (min-width: 1441px)": {
+    marginLeft: "3em",
   },
 }));

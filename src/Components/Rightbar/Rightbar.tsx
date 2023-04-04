@@ -6,7 +6,7 @@ import { RghtBar, RghtBarContainer } from "./Styled.Rightbar";
 const Rightbar = () => {
   return (
     <RghtBar>
-      <RghtBarContainer>
+      <RghtBarContainer sx={{ marginLeft: { lg: "3em" } }}>
         <OnlineFriends />
         <LatestImages />
         <LatestConversation />
